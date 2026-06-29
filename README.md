@@ -19,6 +19,7 @@
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hs380102-blip/DSA-JAVA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0189-rotate-array](https://github.com/hs380102-blip/DSA-JAVA/tree/main/0189-rotate-array/) | Medium |
+| [0344-reverse-string](https://github.com/hs380102-blip/DSA-JAVA/tree/main/0344-reverse-string/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/hs380102-blip/DSA-JAVA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -32,4 +33,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/hs380102-blip/DSA-JAVA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0344-reverse-string](https://github.com/hs380102-blip/DSA-JAVA/tree/main/0344-reverse-string/) | Easy |
 <!---LeetCode Topics End-->
