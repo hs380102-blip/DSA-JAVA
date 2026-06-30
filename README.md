@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hs380102-blip/DSA-JAVA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/hs380102-blip/DSA-JAVA/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0189-rotate-array](https://github.com/hs380102-blip/DSA-JAVA/tree/main/0189-rotate-array/) | Medium |
+| [0283-move-zeroes](https://github.com/hs380102-blip/DSA-JAVA/tree/main/0283-move-zeroes/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/hs380102-blip/DSA-JAVA/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/hs380102-blip/DSA-JAVA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Hash Table
@@ -19,6 +20,7 @@
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hs380102-blip/DSA-JAVA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0189-rotate-array](https://github.com/hs380102-blip/DSA-JAVA/tree/main/0189-rotate-array/) | Medium |
+| [0283-move-zeroes](https://github.com/hs380102-blip/DSA-JAVA/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/hs380102-blip/DSA-JAVA/tree/main/0344-reverse-string/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/hs380102-blip/DSA-JAVA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Math
