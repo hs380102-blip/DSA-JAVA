@@ -28,6 +28,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0189-rotate-array](https://github.com/hs380102-blip/DSA-JAVA/tree/main/0189-rotate-array/) | Medium |
+| [0509-fibonacci-number](https://github.com/hs380102-blip/DSA-JAVA/tree/main/0509-fibonacci-number/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -41,4 +42,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0344-reverse-string](https://github.com/hs380102-blip/DSA-JAVA/tree/main/0344-reverse-string/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/hs380102-blip/DSA-JAVA/tree/main/0509-fibonacci-number/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/hs380102-blip/DSA-JAVA/tree/main/0509-fibonacci-number/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/hs380102-blip/DSA-JAVA/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
