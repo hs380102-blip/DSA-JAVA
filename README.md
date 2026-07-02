@@ -28,6 +28,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0189-rotate-array](https://github.com/hs380102-blip/DSA-JAVA/tree/main/0189-rotate-array/) | Medium |
+| [0258-add-digits](https://github.com/hs380102-blip/DSA-JAVA/tree/main/0258-add-digits/) | Easy |
 | [0509-fibonacci-number](https://github.com/hs380102-blip/DSA-JAVA/tree/main/0509-fibonacci-number/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -37,6 +38,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0258-add-digits](https://github.com/hs380102-blip/DSA-JAVA/tree/main/0258-add-digits/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/hs380102-blip/DSA-JAVA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -54,4 +56,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/hs380102-blip/DSA-JAVA/tree/main/0509-fibonacci-number/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/hs380102-blip/DSA-JAVA/tree/main/0258-add-digits/) | Easy |
 <!---LeetCode Topics End-->
