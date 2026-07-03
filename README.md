@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/hs380102-blip/DSA-JAVA/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hs380102-blip/DSA-JAVA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/hs380102-blip/DSA-JAVA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0035-search-insert-position](https://github.com/hs380102-blip/DSA-JAVA/tree/main/0035-search-insert-position/) | Easy |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/hs380102-blip/DSA-JAVA/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0189-rotate-array](https://github.com/hs380102-blip/DSA-JAVA/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/hs380102-blip/DSA-JAVA/tree/main/0283-move-zeroes/) | Easy |
@@ -34,6 +35,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/hs380102-blip/DSA-JAVA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0035-search-insert-position](https://github.com/hs380102-blip/DSA-JAVA/tree/main/0035-search-insert-position/) | Easy |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/hs380102-blip/DSA-JAVA/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
