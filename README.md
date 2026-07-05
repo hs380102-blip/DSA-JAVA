@@ -28,6 +28,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0069-sqrtx](https://github.com/hs380102-blip/DSA-JAVA/tree/main/0069-sqrtx/) | Easy |
 | [0189-rotate-array](https://github.com/hs380102-blip/DSA-JAVA/tree/main/0189-rotate-array/) | Medium |
 | [0258-add-digits](https://github.com/hs380102-blip/DSA-JAVA/tree/main/0258-add-digits/) | Easy |
 | [0509-fibonacci-number](https://github.com/hs380102-blip/DSA-JAVA/tree/main/0509-fibonacci-number/) | Easy |
@@ -36,6 +37,7 @@
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/hs380102-blip/DSA-JAVA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/hs380102-blip/DSA-JAVA/tree/main/0035-search-insert-position/) | Easy |
+| [0069-sqrtx](https://github.com/hs380102-blip/DSA-JAVA/tree/main/0069-sqrtx/) | Easy |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/hs380102-blip/DSA-JAVA/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
