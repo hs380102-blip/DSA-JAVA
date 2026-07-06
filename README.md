@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hs380102-blip/DSA-JAVA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/hs380102-blip/DSA-JAVA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/hs380102-blip/DSA-JAVA/tree/main/0035-search-insert-position/) | Easy |
+| [0078-subsets](https://github.com/hs380102-blip/DSA-JAVA/tree/main/0078-subsets/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/hs380102-blip/DSA-JAVA/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0189-rotate-array](https://github.com/hs380102-blip/DSA-JAVA/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/hs380102-blip/DSA-JAVA/tree/main/0283-move-zeroes/) | Easy |
@@ -64,4 +65,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/hs380102-blip/DSA-JAVA/tree/main/0258-add-digits/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0078-subsets](https://github.com/hs380102-blip/DSA-JAVA/tree/main/0078-subsets/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0078-subsets](https://github.com/hs380102-blip/DSA-JAVA/tree/main/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
