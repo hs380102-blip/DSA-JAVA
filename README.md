@@ -10,6 +10,7 @@
 | [0035-search-insert-position](https://github.com/hs380102-blip/DSA-JAVA/tree/main/0035-search-insert-position/) | Easy |
 | [0078-subsets](https://github.com/hs380102-blip/DSA-JAVA/tree/main/0078-subsets/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/hs380102-blip/DSA-JAVA/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
+| [0136-single-number](https://github.com/hs380102-blip/DSA-JAVA/tree/main/0136-single-number/) | Easy |
 | [0189-rotate-array](https://github.com/hs380102-blip/DSA-JAVA/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/hs380102-blip/DSA-JAVA/tree/main/0283-move-zeroes/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/hs380102-blip/DSA-JAVA/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
@@ -73,4 +74,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/hs380102-blip/DSA-JAVA/tree/main/0078-subsets/) | Medium |
+| [0136-single-number](https://github.com/hs380102-blip/DSA-JAVA/tree/main/0136-single-number/) | Easy |
 <!---LeetCode Topics End-->
