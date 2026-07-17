@@ -19,6 +19,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/hs380102-blip/DSA-JAVA/tree/main/0001-two-sum/) | Easy |
+| [0242-valid-anagram](https://github.com/hs380102-blip/DSA-JAVA/tree/main/0242-valid-anagram/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -49,6 +50,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0242-valid-anagram](https://github.com/hs380102-blip/DSA-JAVA/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/hs380102-blip/DSA-JAVA/tree/main/0344-reverse-string/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -75,4 +77,8 @@
 | ------- | ------- |
 | [0078-subsets](https://github.com/hs380102-blip/DSA-JAVA/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/hs380102-blip/DSA-JAVA/tree/main/0136-single-number/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0242-valid-anagram](https://github.com/hs380102-blip/DSA-JAVA/tree/main/0242-valid-anagram/) | Easy |
 <!---LeetCode Topics End-->
